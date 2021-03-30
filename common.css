@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.annotation{
+    margin-top: 0;
+}
+
+.inline2block{
+    display: block;
+}
+
+.textbox{
+    width: 80%;
+    padding: 0.5em 0.5em;
+    font-size: medium;
+}

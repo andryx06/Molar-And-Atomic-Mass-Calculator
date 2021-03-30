@@ -1,0 +1,11 @@
+{
+  "name": "calc_mol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calc_mol.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TI",
+  "license": "ISC"
+}
